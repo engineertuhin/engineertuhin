@@ -14,19 +14,21 @@ I’m passionate about writing clean code, exploring new technologies, and shari
 ---
 
 ## 🛠 Tech I Work With
-- **Backend:** PHP (Laravel), Node.js (Express)  
-- **Frontend:** Next.js, React.js  
+- **Backend:** PHP (Laravel, Lumen), Node.js (Express)  
+- **Frontend:** React.js, Next.js, Bootstrap, Tailwind, jQuery, Ajax, ES6  
 - **Mobile:** React Native, Expo  
-- **Databases:** MySQL, SQLite, MongoDB  
+- **Databases:** MySQL, SQLite, MongoDB, Firebase  
+- **Core Concepts:** OOP, SOLID, DTO, Design Patterns, Clean Code, Refactoring  
+- **DevOps & Tools:** Git, Git Flow, VPS Server, REST APIs, Payment Gateways, Code Deployment, Documentation  
 
 ---
 
 ## 📫 Connect
 - **Email:** [engineertuhin@gmail.com](mailto:engineertuhin@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/engineertuhin](https://www.linkedin.com/in/engineertuhin/)  
-- **Twitter/X:** [@engineertuhin](https://twitter.com/engineertuhin)  
+- **Facebook:** [facebook.com/engineertuhin09134](https://www.facebook.com/engineertuhin09134/)  
 - **Portfolio:** [engineertuhin.github.io](https://engineertuhin.github.io)  
+
 
 ---
 
-⭐ *Building tools, crafting applications, and contributing to open source.*  
+⭐ *Blaze is just the start — I’m passionate about building tools, applications, and open-source projects that empower developers and make coding faster and cleaner.*  
