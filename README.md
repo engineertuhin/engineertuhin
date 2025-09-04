@@ -1,29 +1,23 @@
 # 👋 Hi, I’m Tuhin (@engineertuhin)
 
-💻 **Software Engineer | Full-Stack Developer | Open Source Contributor**  
+💻 **Software Engineer | Full-Stack Developer | Open Source Contributor**
 
-I build modern, scalable, and user-focused applications. My work spans **frontend, backend, and cloud** — with a strong focus on writing clean, efficient code and contributing to impactful projects.  
-
----
-
-## 🛠 Tech Stack
-- **Languages:** JavaScript, TypeScript, Python, Java  
-- **Frameworks & Libraries:** React, Node.js, Express, Django  
-- **Databases:** MongoDB, PostgreSQL, MySQL  
-- **DevOps & Cloud:** Docker, GitHub Actions, AWS, Kubernetes  
+I specialize in building **scalable applications** and enjoy working across the full stack — from backend systems to modern frontend frameworks.  
+I’m passionate about writing clean code, exploring new technologies, and sharing my work with the developer community.  
 
 ---
 
-## 🚀 Projects
-- 📘 [Student Management System](https://github.com/engineertuhin/studentManagent)  
-- 💳 [Sales POS System](https://github.com/datadss123/SALES-POS_SYSTEM_DEV_V1)  
-- ⚙️ [Matendes](https://github.com/engineertuhin/matendes)  
-- 🛢 [Oil Management](https://github.com/engineertuhin/oil)  
+## 🔥 Highlight
+- 🚀 [**Blaze**](https://github.com/engineertuhin/Blaze) — A **Laravel Application Builder Package**  
+  I’m the **owner and maintainer** of this package, designed to speed up Laravel application development with flexibility and scalability in mind.  
 
 ---
 
-## 📈 GitHub Overview
-![Tuhin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=engineertuhin&show_icons=true&theme=tokyonight)  
+## 🛠 Tech I Work With
+- **Backend:** PHP (Laravel), Node.js (Express)  
+- **Frontend:** Next.js, React.js  
+- **Mobile:** React Native, Expo  
+- **Databases:** MySQL, SQLite, MongoDB  
 
 ---
 
@@ -35,4 +29,4 @@ I build modern, scalable, and user-focused applications. My work spans **fronten
 
 ---
 
-⭐ *Passionate about coding, curious about new tech, and always open to collaboration.*  
+⭐ *Building tools, crafting applications, and contributing to open source.*  
