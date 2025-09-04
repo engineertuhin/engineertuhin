@@ -24,7 +24,7 @@ I’m passionate about writing clean code, exploring new technologies, and shari
 ---
 
 ## 📫 Connect
-- **Email:** [engineertuhin@gmail.com](mailto:engineertuhin@gmail.com)  
+- **Email:** [engineertuhin@gmail.com](mailto:tuhin1191@gmail.com)  
 - **Facebook:** [facebook.com/engineertuhin09134](https://www.facebook.com/engineertuhin09134/)  
 - **Portfolio:** [engineertuhin.github.io](https://engineertuhin.github.io)  
 
