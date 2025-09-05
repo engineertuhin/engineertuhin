@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Tuhin (@engineertuhin)
+# Hi, I’m Tuhin (@engineertuhin)
 
 💻 **Software Engineer | Full-Stack Developer | Open Source Contributor**
 
@@ -7,13 +7,13 @@ I’m passionate about writing clean code, exploring new technologies, and shari
 
 ---
 
-## 🔥 Highlight
+## Highlight
 - 🚀 [**Blaze**](https://github.com/engineertuhin/Blaze) — A **Laravel Application Builder Package**  
   I’m the **owner and maintainer** of this package, designed to speed up Laravel application development with flexibility and scalability in mind.  
 
 ---
 
-## 🛠 Tech I Work With
+## Tech I Work With
 - **Backend:** PHP (Laravel, Lumen), Node.js (Express)  
 - **Frontend:** React.js, Next.js, Bootstrap, Tailwind, jQuery, Ajax, ES6  
 - **Mobile:** React Native, Expo  
@@ -23,7 +23,7 @@ I’m passionate about writing clean code, exploring new technologies, and shari
 
 ---
 
-## 📫 Connect
+## Connect
 - **Email:** [engineertuhin@gmail.com](mailto:tuhin1191@gmail.com)  
 - **Facebook:** [facebook.com/engineertuhin09134](https://www.facebook.com/engineertuhin09134/)  
 - **Portfolio:** [engineertuhin.github.io](https://engineertuhin.github.io)  
